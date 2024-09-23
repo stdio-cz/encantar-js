@@ -1,0 +1,1 @@
+{"version":3,"file":"pose.d.ts","sourceRoot":"","sources":["../../src/geometry/pose.ts"],"names":[],"mappings":"AAwBA,OAAO,EAAkB,iBAAiB,EAAE,MAAM,aAAa,CAAC;AAIhE;;;GAGG;AACH,qBAAa,IAAI;IAEb,oCAAoC;IACpC,OAAO,CAAC,UAAU,CAAoB;IAItC;;;OAGG;gBACS,SAAS,EAAE,iBAAiB;IAKxC;;;OAGG;IACH,IAAI,SAAS,IAAI,iBAAiB,CAGjC;CACJ"}

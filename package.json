@@ -23,6 +23,7 @@
     "magic"
   ],
   "main": "dist/encantar.js",
+  "typings": "dist/main.d.ts",
   "scripts": {
     "start": "webpack serve --mode development --env PORT=8000 --env minimize=1",
     "build-dev": "npm run update && npm run clean && webpack --mode development",
