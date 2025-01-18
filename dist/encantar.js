@@ -5,7 +5,7 @@
  * https://github.com/alemart/encantar-js
  *
  * @license LGPL-3.0-or-later
- * Date: 2024-09-17T12:25:19.840Z
+ * Date: 2024-09-27T14:56:10.209Z
  */
 (function webpackUniversalModuleDefinition(root, factory) {
 	if(typeof exports === 'object' && typeof module === 'object')
@@ -23707,9 +23707,9 @@ class ViewerPose extends Pose {
 
 
 /** Default distance in pixels of the near plane to the optical center of the camera */
-const DEFAULT_NEAR = 1;
+const DEFAULT_NEAR = 0.5;
 /** Default distance in pixels of the far plane to the optical center of the camera */
-const DEFAULT_FAR = 20000;
+const DEFAULT_FAR = 10000;
 /**
  * A PerspectiveView is a View defining a symmetric frustum around the z-axis
  * (perspective projection)

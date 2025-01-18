@@ -27,10 +27,10 @@ import { CameraModel, FX, FY, U0, V0 } from './camera-model';
 import { IllegalArgumentError } from '../utils/errors';
 
 /** Default distance in pixels of the near plane to the optical center of the camera */
-const DEFAULT_NEAR = 1;
+const DEFAULT_NEAR = 0.5;
 
 /** Default distance in pixels of the far plane to the optical center of the camera */
-const DEFAULT_FAR = 20000;
+const DEFAULT_FAR = 10000;
 
 
 
